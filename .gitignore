@@ -1,0 +1,12 @@
+# Exécutable
+intersection
+
+# Fichiers objets
+*.o
+
+# Fichiers temporaires
+*~
+*.swp
+
+# Dossiers éventuels
+.vscode/
